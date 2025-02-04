@@ -17,7 +17,21 @@ This repository was built for homework 1 in Multimedia Authoring 1.
 - Sea food (Meen Kuzhambu)
 
 ## **Tamunotubo Princeton Jackreece**
-{Edit your info here}
+
+**A picture of myself Jack **
+
+![Childhood picture](images/Jack.jpg)
+
+##  Three Random Facts about Me 🤔
+1. I love gaming
+2. I love talking about tech
+3. I love Anime and Japanese culture. 
+
+## Favorite Food 😋
+- Pizza
+- Spaghetti
+- Sandwich
+
 
 ## Installation
 No Installition Required
