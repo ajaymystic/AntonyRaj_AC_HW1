@@ -18,7 +18,7 @@ This repository was built for homework 1 in Multimedia Authoring 1.
 
 ## **Tamunotubo Princeton Jackreece**
 
-**A picture of myself Jack **
+**A picture of myself Jack**
 
 ![Childhood picture](images/Jack.jpg)
 
