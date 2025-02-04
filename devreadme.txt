@@ -1,1 +1,0 @@
-** Here is all the Info/ReadMe regarding the Developement **
